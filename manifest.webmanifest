@@ -1,0 +1,31 @@
+{
+  "name": "Hands Off",
+  "short_name": "Hands Off",
+  "description": "Hands off",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "fullscreen",
+  "orientation": "landscape",
+  "background_color": "#231F20",
+  "theme_color": "#231F20",
+  "icons": [
+    {
+      "src": "TemplateData/icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "TemplateData/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "TemplateData/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
